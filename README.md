@@ -1,16 +1,17 @@
-## Hi there 👋
+# Desenvolvedora Backend | IA | Machine Learning
+  
+## 🧑‍🎓 Formação:
+  - 🖥️ Tecnologia em Análise e Desenvolvimento de Sistemas;
+  - 🤖 Especialização em Inteligência Artificial e Machine Learning;
+  - ⏳ Cursando 3/10 semestre de Engenharia da Computação.
 
-<!--
-**DanatiellyCosta-Dev/DanatiellyCosta-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Informações:
+  - Gosto muito de estudar e aprender coisas novas.
+  - Sou apaixonada por programação e tecnologia.
+  - Estou por aqui para compartilhar meu conhecimento e, aprender com a comunidade Dev.
+  - Partilhando minha jornada no meu desenvolvimento profissional.
 
-Here are some ideas to get you started:
+    
+  - 📧 Como me contatar: danny_costa87@outlook.com
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
