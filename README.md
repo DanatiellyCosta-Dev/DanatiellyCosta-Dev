@@ -1,10 +1,10 @@
 # Olá sou a Danatielly !
   - Desenvolvedora Backend Python e especialista em IA e Machine Learning
   
-## 🧑‍🎓 Formação:
-  - 🖥️ Tecnologia em Análise e Desenvolvimento de Sistemas;
-  - 🤖 Especialização em Inteligência Artificial e Machine Learning;
-  - ⏳ Cursando 3/10 semestre de Engenharia da Computação.
+##
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ##  Informações:
   - Gosto muito de estudar e aprender coisas novas.
