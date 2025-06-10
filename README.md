@@ -1,4 +1,4 @@
-# Olá dou a Danatielly, Desenvolvedora Backend 
+# Olá sou a Danatielly, Desenvolvedora Backend Python e especialista em IA e Machine Learning
   
 ## 🧑‍🎓 Formação:
   - 🖥️ Tecnologia em Análise e Desenvolvimento de Sistemas;
